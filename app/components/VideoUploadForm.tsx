@@ -5,8 +5,8 @@ import { useForm } from "react-hook-form";
 import { IKUploadResponse } from "imagekitio-next/dist/types/components/IKUpload/props";
 import { Loader2 } from "lucide-react";
 import { useNotification } from "./Notification";
-import { apiClient } from "@/lib/api-client";
 import FileUpload from "./FileUpload";
+import { apiClient } from "@/lib/api-client";
 
 interface VideoFormData {
   title: string;
