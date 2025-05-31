@@ -12,12 +12,14 @@
     "@imagekit/next": "^2.1.2",
     "bcryptjs": "^3.0.2",
     "imagekit": "^6.0.0",
+    "imagekitio-next": "^1.0.1",
     "lucide-react": "^0.511.0",
     "mongoose": "^8.15.0",
     "next": "15.1.8",
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.56.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
